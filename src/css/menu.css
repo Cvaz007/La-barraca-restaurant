@@ -22,15 +22,19 @@
     display: flex;
     flex-flow: column;
   }
+  .titulo{
+    text-align: center;
+  }
   
   .lin{
     
     background: #FFC300;
     height: 2.5px;
-    width: 70px;
+    width: 100%;
     border: none;
   }
-  
+
+ 
  
 
   @media (max-width:768px){
