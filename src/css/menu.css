@@ -4,11 +4,6 @@
   #menu{
     margin: 40px 10px 30px 10px;
   }
-  
-  .menu{
-    max-width: 1200px;
-    margin: 0 auto;
-  }
 
   .column-3{
     display: grid;
